@@ -1,0 +1,4 @@
+agent_name: TestAIAgent1_DivijWadhawan
+task_server_name: localserver
+checkpoint_db_name: localDB
+replicas: 0

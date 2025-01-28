@@ -1,0 +1,4 @@
+agent_name: chatbot_DivijWadhawan
+task_server_name: localserver
+checkpoint_db_name: localdb
+replicas: 1
